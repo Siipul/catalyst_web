@@ -188,7 +188,7 @@ h6 {
 	height: 135px;
 	border-radius: 100px;
 	background: #7a60ff;
-	background:  linear-gradient(to left, #7a60ff, #cd9ffa);
+	background:  linear-gradient(to left, #ffaa00, #f25c54);
 	color: #ffffff;
 	font-size: 50px;
 	line-height: 135px;
@@ -204,9 +204,9 @@ h6 {
 	margin: 0 auto;
 }
 .about-btn {
-	color: #8e1efc;
+	color: #f25c54;
 	padding: 13px 50px;
-	border: 2px solid #8e1efc;
+	border: 2px solid #FC2E20;
 	border-radius: 7px;
 	margin-top: 30px;
 	display: inline-block;
@@ -222,7 +222,7 @@ h6 {
 	font-size: 18px;
 }
 .about-btn:hover {
-	background:#8e1efc;
+	background:#FC2E20;
 	color:#ffffff;
 	text-decoration:none;
 }
@@ -237,7 +237,7 @@ h6 {
 	overflow: hidden;
 }
 .video-overlay {
-	background: linear-gradient(to left, rgba(122, 96, 255, 0.90), rgba(205, 159, 250, 0.90));
+	background: linear-gradient(to left, rgba(255,140,0, 0.90), rgba(255,165,0, 0.90));
 }
 .video-section h3 {
 	font-weight: 600;
@@ -250,7 +250,7 @@ h6 {
 	height: 70px;
 	border-radius: 100px;
 	background: #ffffff;
-	color: #8e1efc;
+	color: #ffaa00;
 	font-size: 30px;
 	line-height: 70px;
 	margin: 0 auto;
@@ -329,14 +329,14 @@ h6 {
 	width: 70%;
 }
 .team-detail h4 {
-	color:rgb(142, 30, 252);
+	color:rgb(255,69,0);
 	margin-top: 20px;
 	font-size: 17px;
 	margin-bottom: 0px;
 }
 .testimonial {
 	background: #7a60ff;
-	background: linear-gradient(to left, #7a60ff, #cd9ffa);
+	background: linear-gradient(to left, #ffaa00, #f25c54);
 	padding:100px 0px;
 	position:relative;
 }
@@ -449,14 +449,14 @@ input {
 	border-radius: 2rem;
 	border: 0;
 	background: #7a60ff;
-	background: linear-gradient(to left, #7a60ff, #cd9ffa);
+	background: linear-gradient(to left, #ffaa00, #f25c54);
 	cursor:pointer;
 }
 .contact-info {
 	padding: 2rem 2rem 1rem;
 	border-radius: 8px;
 	background: #7a60ff;
-	background: linear-gradient(to left, #7a60ff, #cd9ffa);
+	background: linear-gradient(to left, #ffaa00, #f25c54);
 }
 .contact-item {
 	margin:23px 0px;
@@ -469,8 +469,8 @@ input {
 	margin: 0;
 }
 .download {
-	background: #7a60ff;
-	background: linear-gradient(to left, #7a60ff, #cd9ffa);
+	background: #f25c54;
+	background: linear-gradient(to left, #ffaa00, #f25c54);
 	padding:100px 0px;
 	position:relative;
 }
